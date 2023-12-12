@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "venus-change-detection"
+version = "0.1.0"
+description = "A streamlit based app to demonstrate the use of VENus data"
+authors = ["moshebeutel <moshebeutel@gmail.com>"]
+license = "GNU GENERAL PUBLIC LICENSE"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+leafmap = "^0.29.6"
+streamlit = "^1.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
