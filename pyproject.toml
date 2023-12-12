@@ -10,6 +10,10 @@ readme = "README.md"
 python = "^3.11"
 leafmap = "^0.29.6"
 streamlit = "^1.29.0"
+scikit-image = "^0.22.0"
+spectral = "^0.23.1"
+localtileserver = "^0.7.2"
+psutil = "^5.9.6"
 
 
 [build-system]
