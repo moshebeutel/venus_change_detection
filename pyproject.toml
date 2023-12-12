@@ -15,6 +15,7 @@ spectral = "^0.23.1"
 localtileserver = "^0.7.2"
 psutil = "^5.9.6"
 segment-geospatial = "^0.10.2"
+segmentation-models-pytorch = "^0.3.3"
 
 
 [build-system]
